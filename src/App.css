@@ -18,8 +18,9 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-wrap: wrap;
   text-align: center;
-  height: 80%;
+  height: auto;
   
 }
 
@@ -67,7 +68,12 @@ h3 {
 
 /* Footer */
 .footerContainer {
-  height: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: auto;
+  padding-top: 3em;
+  padding-bottom:1.5em ;
 }
 .footerText {
   text-align: center;

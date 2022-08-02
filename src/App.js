@@ -38,10 +38,6 @@ function App() {
             description={item.description}
           />
         ))}
-
-        {/* <Card image={Gallery[0].image} title={Gallery[0].title} description={Gallery[0].description}/>
-      <Card image={Gallery[1].image} title={Gallery[1].title} description={Gallery[1].description}/>
-      <Card image={Gallery[2].image} title={Gallery[2].title} description={Gallery[2].description}/> */}
       </div>
       <Footer />
     </div>
