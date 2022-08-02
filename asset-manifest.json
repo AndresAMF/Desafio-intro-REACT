@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/desafio-introduccion-a-react/static/css/main.bca4e904.css",
-    "main.js": "/desafio-introduccion-a-react/static/js/main.31482b01.js",
+    "main.css": "/desafio-introduccion-a-react/static/css/main.b916f71d.css",
+    "main.js": "/desafio-introduccion-a-react/static/js/main.ed39d7bc.js",
     "static/js/787.cf65be53.chunk.js": "/desafio-introduccion-a-react/static/js/787.cf65be53.chunk.js",
     "static/media/Lotr.jpg": "/desafio-introduccion-a-react/static/media/Lotr.8fb2ea45ff35fdfdcf58.jpg",
     "static/media/Got.jpg": "/desafio-introduccion-a-react/static/media/Got.9541ece028236801f4da.jpg",
     "static/media/Hp.jpg": "/desafio-introduccion-a-react/static/media/Hp.501679d3e5fe61bdf729.jpg",
     "index.html": "/desafio-introduccion-a-react/index.html",
-    "main.bca4e904.css.map": "/desafio-introduccion-a-react/static/css/main.bca4e904.css.map",
-    "main.31482b01.js.map": "/desafio-introduccion-a-react/static/js/main.31482b01.js.map",
+    "main.b916f71d.css.map": "/desafio-introduccion-a-react/static/css/main.b916f71d.css.map",
+    "main.ed39d7bc.js.map": "/desafio-introduccion-a-react/static/js/main.ed39d7bc.js.map",
     "787.cf65be53.chunk.js.map": "/desafio-introduccion-a-react/static/js/787.cf65be53.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bca4e904.css",
-    "static/js/main.31482b01.js"
+    "static/css/main.b916f71d.css",
+    "static/js/main.ed39d7bc.js"
   ]
 }
