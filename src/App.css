@@ -2,10 +2,10 @@
 #root,
 .appMainContainer {
   height: 100vh;
-  background: linear-gradient(180deg, #ffffff 0%, #000000 100%);
+  background: linear-gradient(180deg, #000000 0%, #ffffff 100%);
 }
 .title {
-  color: black;
+  /* color: black; */
   text-align: center;
   font-family: "Mouse Memoirs", sans-serif;
   font-size: 5em;
@@ -60,6 +60,9 @@ h3 {
 .alertButon {
   text-align: center;
 }
+.modal-content{
+  background-color: black !important;
+}
 
 
 /* Footer */
@@ -68,5 +71,5 @@ h3 {
 }
 .footerText {
   text-align: center;
-  color: white;
+  /* color: white; */
 }

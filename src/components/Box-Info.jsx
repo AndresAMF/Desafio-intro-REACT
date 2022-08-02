@@ -20,11 +20,8 @@ function AlertComp(props) {
         </Modal.Header>
         <Modal.Body>{props.description}</Modal.Body>
         <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
-            Close
-          </Button>
           <Button variant="dark" onClick={handleClose}>
-            Save Changes
+            Close
           </Button>
         </Modal.Footer>
       </Modal>
