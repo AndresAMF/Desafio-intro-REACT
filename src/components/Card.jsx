@@ -2,12 +2,12 @@ import React from 'react';
 import BoxInfo from './Box-Info';
 
 
-const Card = (props) => {
+const Card = (item) => {
   return (
     <div>
         <div className='cardContainer'>
             <div className='imgContainer'>
-                <img className='cardImg' src={props.image} alt={props.title}></img>
+                <img className='cardImg' src={item.image} alt={item.title}></img>
             </div>
             {/* <div className='infoContainer'>
                 <h3 className='name'>{props.title}</h3>
@@ -15,7 +15,7 @@ const Card = (props) => {
             </div> */}
             
         </div>
-        <BoxInfo title={props.title} description={props.description} />
+        <BoxInfo title={item.title} description={item.description} />
     </div>
   )
 }
